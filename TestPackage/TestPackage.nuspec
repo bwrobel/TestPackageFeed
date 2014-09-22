@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TestPackage</id>
+    <version>0.4</version>
+    <authors>Bartosz Wróbel</authors>
+    <owners>Bartosz Wróbel</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is Test Package Descirption</description>
+    <tags>Test Woof</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
