@@ -1,0 +1,5 @@
+D:\Repositories\02_Lab\09_Github\TestPackageFeed\TestPackage\bin\Debug\TestPackage.dll
+D:\Repositories\02_Lab\09_Github\TestPackageFeed\TestPackage\bin\Debug\TestPackage.pdb
+D:\Repositories\02_Lab\09_Github\TestPackageFeed\TestPackage\obj\Debug\TestPackage.csprojResolveAssemblyReference.cache
+D:\Repositories\02_Lab\09_Github\TestPackageFeed\TestPackage\obj\Debug\TestPackage.dll
+D:\Repositories\02_Lab\09_Github\TestPackageFeed\TestPackage\obj\Debug\TestPackage.pdb
